@@ -1,11 +1,10 @@
 esoTalk
 =======
-	"locale" => "bg",
-	"name" => "Български",
-	"description" => "Bulgarian language pack",
-	"version" => ESOTALK_VERSION,
-	"author" => "ICNSeo COM.",
-	"authorEmail" => "filavtev@icnseo.com",
-	"authorURL" => "https://icnseo.com",
-	"license" => "GPLv2"
+Description: Bulgarian language pack
+Version: 1.0.0g3
+Author: ICNSeo COM.
+Author Email: filavtev@icnseo.com
+Author URL: https://icnseo.com
+License: GPLv2
+
 esoTalk Bulgarian Language Pack
